@@ -1,0 +1,16 @@
+{
+  "name": "mock-media-server",
+  "version": "1.0.0",
+  "description": "Objectives \r Your goal is to create a simple Node.js server that has three different endpoints. Make sure to handle and terminate all requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
